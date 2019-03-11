@@ -1,0 +1,11 @@
+  409  cd Desktop/
+  410  git clone https://github.com/mblejeune/L0
+  411  cd L0
+  412  git add l0
+  413  git add l0
+  414  git l0.txt
+  415  git add l0.txt
+  416  git commit -m "lab0"
+  417  git push
+  418  git pull 
+  419  history
